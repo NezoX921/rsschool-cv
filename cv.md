@@ -41,7 +41,11 @@ _Arpil 2022 | Ukraine_
     * CSS3
     * GIT
 
+---
+
 ## Contacts
+
+    Dicord: NezoX921#6637
 
     C: +380689997143
 
